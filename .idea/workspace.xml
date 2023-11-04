@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c39c39-c78d-4d9e-a2e0-358a5f86c39a" name="Changes" comment="" />
+    <list default="true" id="12c39c39-c78d-4d9e-a2e0-358a5f86c39a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/Events.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/FlipKart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/InvoiceManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/BikePathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/CarPathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/PathCalculationStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/PathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/TransportMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after1/WalkPathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/after2/PathCalculationStrategyRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/before/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/before/TransportMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XMMR6VLJ3Wbcr9BvJFfXozwxYx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +53,46 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/2.Engineering/9.Scalar/DesignPatterns/src/behavioural/strategy/after2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="behavioural.strategy.before" />
+      <recent name="structural.flyweight.before" />
+      <recent name="creational.factory.tax" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2.Engineering\9.Scalar\DesignPatterns\src\behavioural\strategy\after2" />
+      <recent name="D:\2.Engineering\9.Scalar\DesignPatterns\src\behavioural\strategy\after1" />
+      <recent name="D:\2.Engineering\9.Scalar\DesignPatterns\src\creational\builder\approach2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.flyweight.after" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.flyweight.after.Client" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.flyweight.after.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +103,21 @@
       <updated>1698434486490</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/creational/prototype/Client.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/creational/prototype/Client.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
